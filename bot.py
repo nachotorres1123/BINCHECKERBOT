@@ -17,8 +17,8 @@ logger = logging.getLogger()
 
 
 class Config:
-    TOKEN = "5943919607:AAG9hIMPe55XpqLCBFd263YgDYDEZR4b4BU"
-    PORT = 5330
+    TOKEN = ""
+    PORT = 5000
 
 
 def start(update, context):
