@@ -17,7 +17,7 @@ logger = logging.getLogger()
 
 
 class Config:
-    TOKEN = ""
+    TOKEN = "6466372597:AAGTPhW8XVaW64O_BDeY7k7Tq6yZXuacYZg"
     PORT = 5000
 
 
